@@ -1,0 +1,4 @@
+name: var
+version: '1.0-SNAPSHOT'
+main: plugin.var.Var
+api-version: '1.20'
